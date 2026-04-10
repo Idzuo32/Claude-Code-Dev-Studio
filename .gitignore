@@ -1,0 +1,49 @@
+# Claude Code session files — never commit these
+.claude/todos
+.claude/cache/
+.claude_session*
+
+# Personal wiki — this is your private knowledge, not part of the studio
+wiki/notes/
+wiki/compiled/
+wiki/dev/
+wiki/writing/
+
+# Project-specific files users generate (not studio files)
+docs/sprints/
+docs/design/ADD.md
+docs/design/systems-map.md
+docs/design/decisions/
+docs/design/index.md
+
+# Personal learning wiki — never commit
+.claude/wiki/
+
+# Environment and secrets
+.env
+.env.*
+!.env.example
+
+# Python (if any hooks use Python)
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+
+# Node (if any hooks use Node)
+node_modules/
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/settings.json
+.idea/
+*.swp
+*.swo
+
+# Build artifacts
+dist/
+build/
