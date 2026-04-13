@@ -111,8 +111,8 @@ Knowledge:  /wiki-update /wiki-query /reflect /research /docs /status
 | `research` | Competitive analysis, knowledge bases |
 | `custom:[name]` | Dynamically generated for novel types |
 
-### 18 Skills (auto-load by file context)
-tdd-workflow, api-design, saas-patterns, mobile-patterns, auth-patterns, security-review, database-patterns, performance, sprint-methodology, concept-validation, launch-strategy, game-design-patterns, unity-patterns, godot-patterns, unreal-patterns, content-production, research-methodology, track-generation
+### 20 Skills (auto-load by file context)
+tdd-workflow, api-design, saas-patterns, mobile-patterns, auth-patterns, security-review, database-patterns, performance, sprint-methodology, concept-validation, launch-strategy, game-design-patterns, unity-patterns, godot-patterns, unreal-patterns, content-production, research-methodology, track-generation, systematic-debugging, two-stage-review
 
 ### Karpathy Wiki (project + personal)
 Every project gets a `wiki/` directory — persistent, compounding knowledge maintained by `/wiki-update`:
@@ -141,7 +141,7 @@ For difficult development moments: `prompts/stuck-on-bug.md`, `scope-creep.md`, 
 │   ├── settings.json
 │   ├── agents/     (37 agents)
 │   ├── commands/   (24 commands)
-│   ├── skills/     (18 skills)
+│   ├── skills/     (20 skills)
 │   ├── hooks/scripts/ (4 hooks)
 │   └── rules/      (5 rule sets)
 ├── docs/
