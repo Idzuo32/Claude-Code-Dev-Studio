@@ -201,6 +201,8 @@ For difficult development moments: `prompts/stuck-on-bug.md`, `scope-creep.md`, 
 - Best practices: [claude-code-best-practice](https://github.com/shanraisshan/claude-code-best-practice) by shanraisshan
 - Community: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) by hesreallyhim
 - Templates: [claude-code-templates](https://github.com/davila7/claude-code-templates) by davila7
+- Workflow methodology: [superpowers](https://github.com/obra/superpowers)
+by Jesse Vincent — systematic debugging and two-stage review patterns
 
 ---
 
